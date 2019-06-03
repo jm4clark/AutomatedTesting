@@ -7,7 +7,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.*;
 
-import org.junit.Ignore;
 
 import cucumber.api.java.*;
 import cucumber.api.java.en.*;

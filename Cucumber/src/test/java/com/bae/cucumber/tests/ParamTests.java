@@ -44,8 +44,6 @@ public class ParamTests {
 		WebElement searchButton = driver.findElement(By.id("sb_form_go"));
 		searchButton.click();
 		Actions action = new Actions(driver);
-		
-		
 		//action.click(search).keyDown(arg1).click(searchButton).perform();
 		//action.keyDown(search,Keys.chord(arg1)).perform();
 		//action.click(searchButton).perform();
